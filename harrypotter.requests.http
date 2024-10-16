@@ -1,18 +1,7 @@
 ###
-GET https://http.cat/
+GET https://wizard-world-api.herokuapp.com/
 
 ###
-GET https://http.cat/200
 
-
-###
-GET https://http.cat/201
-
-###
-GET https://http.cat/404
-
-###
-GET https://http.cat/500
-
-
+GET https://wizard-world-api.herokuapp.com/Elixirs
 

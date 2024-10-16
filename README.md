@@ -19,3 +19,13 @@ La cual habilitará el botón "send request" en el archivo cats.requests.http y 
 (Los arhivos que terminen en .http tendrán esta funcionalidad) Mas info en la pagina de RestClient
 
 Con esto tenemos todo listo para interactuar con APIs e incluso desarrollarlas.
+
+
+# Pasar parametros a métodos GET
+
+TODO
+
+
+# Pasar parámetros a métodos POST
+
+TODO
