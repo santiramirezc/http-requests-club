@@ -1,0 +1,18 @@
+###
+GET https://http.cat/
+
+###
+GET https://http.cat/200
+
+
+###
+GET https://http.cat/201
+
+###
+GET https://http.cat/404
+
+###
+GET https://http.cat/500
+
+
+
