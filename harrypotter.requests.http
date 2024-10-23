@@ -1,5 +1,5 @@
 ###
-GET https://wizard-world-api.herokuapp.com/
+GET https://wizard-world-api.herokuapp.com/swagger/index.html
 
 ###
 
